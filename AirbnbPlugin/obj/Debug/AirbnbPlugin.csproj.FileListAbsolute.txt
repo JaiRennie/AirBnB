@@ -1,0 +1,10 @@
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\bin\Debug\AirbnbPlugin.exe.config
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\bin\Debug\AirbnbPlugin.exe
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\bin\Debug\AirbnbPlugin.pdb
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\obj\Debug\AirbnbPlugin.csprojResolveAssemblyReference.cache
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\obj\Debug\AirbnbPlugin.Properties.Resources.resources
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\obj\Debug\AirbnbPlugin.csproj.GenerateResource.Cache
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\obj\Debug\AirbnbPlugin.csproj.CoreCompileInputs.cache
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\obj\Debug\AirbnbPlugin.exe
+c:\users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\obj\Debug\AirbnbPlugin.pdb
+C:\Users\jaire\source\repos\AirbnbPlugin\AirbnbPlugin\obj\Debug\AirbnbPlugin.Form1.resources
